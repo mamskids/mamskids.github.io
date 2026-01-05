@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TON-URL-EXACTE/sitemap.xml
+Sitemap: https://mamskids.github.io/sitemap.xml
